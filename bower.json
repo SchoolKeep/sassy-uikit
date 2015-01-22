@@ -1,0 +1,14 @@
+{
+  "name": "sassy-uikit",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "uikit": "~2.16.2"
+  }
+}
